@@ -7,7 +7,7 @@
 
 
 ## Problem Definition
-The main aim of our project is to predict whether a person would pay off their in order to mitigate financial risk for lenders.Our project will aid lending institutions in assessing the creditworthiness of loan applicants and making informed decisions to minimise potential losses due to defaults. The objective is to develop a predictive model that can accurately forecast the likelihood of future loans. 
+The main of our project is to develop a predictive model to assess the likelihood of loan default, aiding lending institutions in mitigating financial risk and making informed decisions. By accurately predicting whether a borrower will pay off their loan, we aim to provide lenders with a valuable tool for assessing the creditworthiness of loan applicants and reducing potential losses due to defaults.
 
 ## Models Used
 
