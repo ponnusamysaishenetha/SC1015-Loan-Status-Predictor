@@ -36,6 +36,7 @@ In future work, we recommend regularly monitoring and updating models to maintai
 - Chi Square Statistic, Cramér's V
 - Logistic Regression from sklearn
 - Collaborating using GitHub
+- Handling of Imbalanced Datasets (Upsampling)
 - Hyperparamter Tuning
 - Randomised Search Cross validation tool (RandomizedSearchCV)
 
