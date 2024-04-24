@@ -17,17 +17,19 @@ The main aim of our project is to develop a predictive model to assess the likel
 
 ## Conclusion
 
-- Imbalanced Data: We addressed the imbalance by applying upsampling techniques, which significantly improved the balance between "Fully Paid" and "Charged Off" loans in the dataset.
+- Top 3 numerical datas based off correlation are interest rate, inquires in the last 6 months and loan amount.
+- Top 3 categorical columns based off Cramers V Statistic are grade, term and verification status.
 Model Performance:
 - Decision Tree Classifier: Achieved consistent accuracy of around 64-65% on both training and testing datasets, with relatively high true positive and true negative rates but high false negative rate.
 - Logistic Regression: Showed similar performance to Decision Tree Classifier, with accuracies of approximately 61-62% and high false positive and false negative rates.
 - Random Forest Classifier: Outperformed the other models, with accuracies ranging from 66-71% and relatively high true positive and true negative rates, indicating effective classification of both "Fully Paid" and "Charged Off" loans.
 Recommendations:
 - Hyperparameter Tuning: Utilize techniques like Randomized Search for finding the best hyperparameters.
-Handling Imbalanced Data: Implement techniques like upsampling to improve model accuracy.
-- Evaluation Metrics: Consider metrics beyond accuracy to gain a more nuanced understanding of model performance.
+- Randomized Search suggested the optimal depth for Decision Tree Classifier as 9 and for Random Forest Classifier, max depth is 10, min samples split as 4 and estimators as 975
   
 In future work, we recommend regularly monitoring and updating models to maintain accuracy as data distributions and customer behaviors evolve. Additionally, exploring other ensemble methods like Gradient Boosting Machines, AdaBoost, or XGBoost might further improve predictive performance.
+
+Yes, it is possible to predict the loan status with acceptable amount of accuracy, high TPR and TNR values. We recommend to use the Random Forest Classifier model to predict the loan status.
 
 ## What did we learn from this project?
 
