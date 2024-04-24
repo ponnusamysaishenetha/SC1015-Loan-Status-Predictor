@@ -22,10 +22,12 @@ The main of our project is to develop a predictive model to assess the likelihoo
 ## What did we learn from this project?
 
 - Handling imbalanced datasets using resampling methods
-- Chi Square Statistic, Cramers V 
-- Logistic Regression, Decision Tree Classifier and Random Forest Classifier from sklearn
+- OneHot encoding
+- Chi Square Statistic, Cramér's V
+- Logistic Regression from sklearn
 - Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
+- Hyperparamter Tuning
+- Randomised Search Cross validation tool (RandomizedSearchCV)
 
 ## References
 
