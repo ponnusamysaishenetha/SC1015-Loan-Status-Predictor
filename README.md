@@ -30,7 +30,7 @@ Recommendations:
   
 In future work, we recommend regularly monitoring and updating models to maintain accuracy as data distributions and customer behaviors evolve. Additionally, exploring other ensemble methods like Gradient Boosting Machines, AdaBoost, or XGBoost might further improve predictive performance.
 
-Yes, it is possible to predict the loan status with acceptable amount of accuracy, high TPR and TNR values. We recommend to use the Random Forest Classifier model to predict the loan status.
+Yes, it is possible to predict the loan status with acceptable amount of accuracy, high TPR and TNR values. We recommend to use the Random Forest Classifier model to predict the loan status and assess the likelihood of loan default.
 
 ## What did we learn from this project?
 
