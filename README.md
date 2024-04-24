@@ -31,12 +31,11 @@ In future work, we recommend regularly monitoring and updating models to maintai
 
 ## What did we learn from this project?
 
-- Handling imbalanced datasets using resampling methods
+- Handling imbalanced datasets using resampling techniques (Upsampling)
 - OneHot encoding
 - Chi Square Statistic, Cramér's V
 - Logistic Regression from sklearn
 - Collaborating using GitHub
-- Handling of Imbalanced Datasets (Upsampling)
 - Hyperparamter Tuning
 - Randomised Search Cross validation tool (RandomizedSearchCV)
 
