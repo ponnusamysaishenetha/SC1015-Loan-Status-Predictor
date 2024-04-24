@@ -37,5 +37,5 @@ The main of our project is to develop a predictive model to assess the likelihoo
 ## References
 
 - <https://developers.themoviedb.org/3/getting-started>](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/#:~:text=Logistic%20regression%20is%20a%20supervised%20machine%20learning%20algorithm%20that%20accomplishes,1%2C%20or%20true%2Ffalse.)
-- <https://www.free-powerpoint-templates-design.com/old-style-movie-projector-powerpoint-templates/>
-- <https:
+- <https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/ 
+- <https://www.kdnuggets.com/2016/08/learning-from-imbalanced-classes.html/2 
