@@ -7,7 +7,7 @@
 
 
 ## Problem Definition
-The main of our project is to develop a predictive model to assess the likelihood of loan default, aiding lending institutions in mitigating financial risk and making informed decisions. By accurately predicting whether a borrower will pay off their loan, we aim to provide lenders with a valuable tool for assessing the creditworthiness of loan applicants and reducing potential losses due to defaults.
+The main aim of our project is to develop a predictive model to assess the likelihood of loan default, aiding lending institutions in mitigating financial risk and making informed decisions. By accurately predicting whether a borrower will pay off their loan, we aim to provide lenders with a valuable tool for assessing the creditworthiness of loan applicants and reducing potential losses due to defaults.
 
 ## Models Used
 
@@ -35,3 +35,10 @@ The main of our project is to develop a predictive model to assess the likelihoo
 - <https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/>
 - <https://www.kdnuggets.com/2016/08/learning-from-imbalanced-classes.html/2>
 - <https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd>
+- <https://scales.arabpsychology.com/stats/how-to-calculate-cramers-v-in-python/#:~:text=The%20Cramer's%20V%20statistic%20is,columns%20(whichever%20is%20smaller).>
+- <https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/>
+- <https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8>
+- 
+
+
+
