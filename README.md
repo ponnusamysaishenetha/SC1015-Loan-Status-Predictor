@@ -17,7 +17,17 @@ The main aim of our project is to develop a predictive model to assess the likel
 
 ## Conclusion
 
-- 
+- Imbalanced Data: We addressed the imbalance by applying upsampling techniques, which significantly improved the balance between "Fully Paid" and "Charged Off" loans in the dataset.
+Model Performance:
+- Decision Tree Classifier: Achieved consistent accuracy of around 64-65% on both training and testing datasets, with relatively high true positive and true negative rates but high false negative rate.
+- Logistic Regression: Showed similar performance to Decision Tree Classifier, with accuracies of approximately 61-62% and high false positive and false negative rates.
+- Random Forest Classifier: Outperformed the other models, with accuracies ranging from 66-71% and relatively high true positive and true negative rates, indicating effective classification of both "Fully Paid" and "Charged Off" loans.
+Recommendations:
+- Hyperparameter Tuning: Utilize techniques like Randomized Search for finding the best hyperparameters.
+Handling Imbalanced Data: Implement techniques like upsampling to improve model accuracy.
+- Evaluation Metrics: Consider metrics beyond accuracy to gain a more nuanced understanding of model performance.
+  
+In future work, we recommend regularly monitoring and updating models to maintain accuracy as data distributions and customer behaviors evolve. Additionally, exploring other ensemble methods like Gradient Boosting Machines, AdaBoost, or XGBoost might further improve predictive performance.
 
 ## What did we learn from this project?
 
