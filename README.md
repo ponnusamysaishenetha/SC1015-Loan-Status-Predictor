@@ -19,10 +19,11 @@ The main aim of our project is to develop a predictive model to assess the likel
 
 - Top 3 numerical datas based off correlation are interest rate, inquires in the last 6 months and loan amount.
 - Top 3 categorical columns based off Cramers V Statistic are grade, term and verification status.
-Model Performance:
-- Decision Tree Classifier: Achieved consistent accuracy of around 64-65% on both training and testing datasets, with relatively high true positive and true negative rates but high false negative rate.
-- Logistic Regression: Showed similar performance to Decision Tree Classifier, with accuracies of approximately 61-62% and high false positive and false negative rates.
-- Random Forest Classifier: Outperformed the other models, with accuracies ranging from 66-71% and relatively high true positive and true negative rates, indicating effective classification of both "Fully Paid" and "Charged Off" loans.
+
+- Model Performance:
+  - Decision Tree Classifier: Achieved consistent accuracy of around 64-65% on both training and testing datasets, with relatively high true positive and true negative rates but  high false negative rate.
+  - Logistic Regression: Showed similar performance to Decision Tree Classifier, with accuracies of approximately 61-62% and high false positive and false negative rates.
+  - Random Forest Classifier: Outperformed the other models, with accuracies ranging from 66-71% and relatively high true positive and true negative rates, indicating effective classification of both "Fully Paid" and "Charged Off" loans.
 Recommendations:
 - Hyperparameter Tuning: Utilize techniques like Randomized Search for finding the best hyperparameters.
 - Randomized Search suggested the optimal depth for Decision Tree Classifier as 9 and for Random Forest Classifier, max depth is 10, min samples split as 4 and estimators as 975
@@ -50,7 +51,6 @@ Yes, it is possible to predict the loan status with acceptable amount of accurac
 - <https://scales.arabpsychology.com/stats/how-to-calculate-cramers-v-in-python/#:~:text=The%20Cramer's%20V%20statistic%20is,columns%20(whichever%20is%20smaller).>
 - <https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/>
 - <https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8>
-- 
 
 
 
